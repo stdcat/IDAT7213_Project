@@ -284,7 +284,7 @@ Open a new terminal:
 mkdir ~/fastlio2_ws
 cd fastlio2_ws && mkdir src
 cd src
-git clone https://github.com/zfc-zfc/IDAT7213_Project.git
+git clone https://github.com/stdcat/IDAT7213_Project.git
 cd ..
 catkin_make -j
 source devel/setup.bash
