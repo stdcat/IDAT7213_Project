@@ -33,7 +33,7 @@
 
 FAST-LIO2 only works on Linux system which supports ROS (Robot Operating System). Thus we need to install a Linux system to make FAST-LIO2 work. Compared with installing a real linux system, here we choose an easier and safer way: installing a **virtual machine** of linux system on your windows system. A **virtual machine** (**VM**) is the [virtualization](https://en.wikipedia.org/wiki/Virtualization)/[emulation](https://en.wikipedia.org/wiki/Emulator) of a computer system. Virtual machines are based on computer architectures and provide functionality of a physical computer. 
 
-* Download **Ubuntu20.04 mirror image** on [onedrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/siqi7_connect_hku_hk/IgBZ1GZdo1dJT6JIx3ceqXRcAXubFWZyq07VMiSj6VfsyPM?e=INpi7t).
+* Download **Ubuntu20.04 mirror image** on [onedrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/siqi7_connect_hku_hk/IgAbkGtGsBRbRYHbd0OqV5LnAVSnF-DET6iau8f2FVmUv0M?e=aImHVS).
 
 * Download VMware Workstation Player for free at https://www.vmware.com/products/workstation-player.html.
 
